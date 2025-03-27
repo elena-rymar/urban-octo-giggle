@@ -6,7 +6,7 @@ hello 2025
 3 commit ili bla-bla
 4 commit
 5 commit
-6 commit
+6 commits
 7 commit
 8 commit
 9 commit
